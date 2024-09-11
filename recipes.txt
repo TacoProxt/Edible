@@ -1,0 +1,19 @@
+item: 1
+id: Pasta
+name: Simple Pasta
+description: Very good pasta
+ingredients: 
+'Water',
+'Pot',
+'Saucepan',
+'Marinara or Tomato Passata (paste)',
+'Spaghetti'
+Instructions:
+'Add water to a pot and wait for it to boil',
+'Add some spaghetti, it doesn\'t matter how much',
+'Cook until the spaghetti is soft and transfer to the saucepan',
+'Add the tomato paste and mix repeatedly until spaghetti is covered in the tomato',
+'Empty into a bowl and eat'
+image: assets/Pasta.jpeg
+
+item: 2
